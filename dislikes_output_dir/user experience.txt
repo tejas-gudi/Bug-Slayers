@@ -1,0 +1,13 @@
+I like the category grids but there are some where I question the validity of certain vendors to appear in them.  I have some questions around the market presence algorithm but can understand why it needs to remain secret.  Finally, I think some of the reports - especially around usability and ease of set-up - currently mitigate against larger vendors with more sophisticated solutions; these feel a little unfair.
+The system could be a bit more intuitive and cleaner for end users coming to look at reviews. You guys should get rid of that grid. It is confusing as heck. I am not a proponent of copy catting all the time, but on this one you could just take a que from Yelp or Tripadvisor in terms of how to present the best company in each category.  A list view is much better and simpler.  Also, I think you guys should better figure out the right companies that should be in a respective category. For us, there are people in our category whose primary product is not in our category yet they are able to rank higher than us in our category because they got more reviews in there primary category. It's a bit misleading I think for the end users relying on your site for reviews.
+The profile set up wasn't always completely intuitive, but with someone always available to answer questions that wasn't a barrier to getting it complete. 
+The backend interface is a little bit old school  and sometimes not very intuitive. We would also like to have more possibilities for rules based for the customer intent emails.
+The platform interface is not as intuitive as I would expect, and it is sometimes difficult to find what I'm looking for or to switch from consumer view to admin view.
+The UX of the review form could be improved..
+Not much I can say. We love the CSM and sales teams. The platform is easy to use and massively intuitive.
+It sometimes gets hard to increase our usability in everything the platform offers. I would like to have a more precise onboarding to understand the features better.
+The only negative is the allocation of funds to landing pages - it is not super intuitive and someone might miss the fact there are no funds in a given LP.
+Sometimes the personal dashboards' UX is not very intuitive, but it doesn't take much time to learn how to navigate it.
+Sometimes the personal dashboards' UX is not very intuitive, but it doesn't take much time to learn how to navigate it.
+I can't mention anything significant. Maybe there are some minor UX issues within the web dashboard. But this doesn't negatively affect the outcomes.
+The backend has a lot of details and is not always intuitive.
