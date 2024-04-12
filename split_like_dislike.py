@@ -1,7 +1,7 @@
 import json
 
 # Load the JSON data from the file (replace 'your_file.json' with the actual filename)
-with open('1.json', 'r') as f:
+with open('reviews.json', 'r') as f:
     data = json.load(f)
 
 # Loop through each survey response in the JSON array
